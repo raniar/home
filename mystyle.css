@@ -21,12 +21,11 @@
 	p					
 	{	
 		text-align:left;
-		font-family:
 	} 
 	nav					
 	{	
 		float:left;
-		max-width:75px;
+		max-width:230px;
 		margin:0;
 		padding:1em;
 		font-size:100%;
