@@ -2,8 +2,11 @@
 	/*the colour is a light shade of pink.*/
 	{	
 		background-color:mistyrose;
+		background-image:url("back.jpg");
+  		background-repeat:no-repeat;
+  		background-attachment:fixed;
 		font-family:"Serif";
-		font-size:14px;
+		font-size:100%;
 	}
 	ol 
 	{
