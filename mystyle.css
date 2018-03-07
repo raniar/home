@@ -21,14 +21,15 @@
 	p					
 	{	
 		text-align:left;
+		font-family:
 	} 
 	nav					
 	{	
-		float: left;
-		max-width: 230px;
-		margin: 0;
-		padding: 1em;
-		font-size:14px;
+		float:left;
+		max-width:150px;
+		margin:0;
+		padding:1em;
+		font-size:100%;
 	}
 	.container			
 	{	
